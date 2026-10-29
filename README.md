@@ -2,29 +2,33 @@
 ## SAGAR PARAJULI - CS26BTKMU11003
 ### Assignment 1: Handwritten simplex algorithm notes
 ### Assignment 2: Python implementation of the simplex algorithm
-# Linear Programming Problem and Test Results
+#### Linear Programming Problem and Test Results
 
-## 1. Example Linear Programming Problem
+##### 1. Example Linear Programming Problem
 
 Consider the following linear programming problem:
+### Linear Programming Problem
 
-**Maximize**
-\[
+**Objective function:**
+
+Maximize
+$$
 z = 3x_1 + 5x_2
-\]
+$$
 
-**Subject to the constraints**
-\[
+**Subject to:**
+
+$$
 \begin{aligned}
 x_1 &\leq 4,\\
-2x_2 &\leq 12,\\
+x_2 &\leq 6,\\
 3x_1 + 2x_2 &\leq 18,\\
 x_1 &\geq 0,\\
 x_2 &\geq 0.
 \end{aligned}
-\]
+$$
 
-### Program Output
+##### Program Output
 
 Our program produces the following output:
 
@@ -53,7 +57,7 @@ Thus, the **optimal solution** is
 (x_1,x_2)=(2,6), \qquad z_{\max}=36.
 \]
 
-## 2. Results for Other Test Cases
+#### 2. Results for Other Test Cases
 
 The program was also evaluated on several additional test cases covering different types of linear programming problems.
 
@@ -74,9 +78,5 @@ The program was also evaluated on several additional test cases covering differe
 | 9b | Tiny step | Optimal | 1 | \([0,1]\) | 1 |
 
 *Note:* A dash (—) indicates that the corresponding value was not reported or is not applicable.
-
-## 3. Summary
-
-The program was tested on **13 test cases**, covering unique and multiple optimal solutions, infeasible and unbounded problems, degenerate vertices, redundant constraints, negative data, higher-dimensional problems, random comparisons with SciPy, and numerical edge cases.
 
 **All 13 tests passed.**
