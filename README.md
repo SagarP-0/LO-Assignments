@@ -1,13 +1,14 @@
 # LO ASSIGNMENTS
 ## SAGAR PARAJULI - CS26BTKMU11003
-### Assignment 1: Handwritten simplex algorithm notes
-### Assignment 2: Python implementation of the simplex algorithm
-#### Linear Programming Problem and Test Results
+## Assignment 1: Handwritten simplex algorithm notes
+## Assignment 2: Python implementation of the simplex algorithm
 
-##### 1. Example Linear Programming Problem
+### Linear Programming Problem and Test Results
+
+#### 1. Example Linear Programming Problem
 
 Consider the following linear programming problem:
-### Linear Programming Problem
+##### Linear Programming Problem
 
 **Objective function:**
 
@@ -57,7 +58,7 @@ Thus, the **optimal solution** is
 (x_1,x_2)=(2,6), \qquad z_{\max}=36.
 \]
 
-#### 2. Results for Other Test Cases
+##### 2. Results for Other Test Cases
 
 The program was also evaluated on several additional test cases covering different types of linear programming problems.
 
