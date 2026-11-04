@@ -18,12 +18,12 @@ Consider the following linear programming problem.
 **Objective function**
 
 Maximise
-\[
+$$
 z = 3x_1 + 5x_2
-\]
+$$
 
 **Subject to**
-\[
+$$
 \begin{aligned}
 x_1 &\leq 4,\\
 x_2 &\leq 6,\\
@@ -31,7 +31,7 @@ x_2 &\leq 6,\\
 x_1 &\geq 0,\\
 x_2 &\geq 0.
 \end{aligned}
-\]
+$$
 
 ##### Program output
 
