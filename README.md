@@ -33,7 +33,7 @@ x_2 &\geq 0.
 \end{aligned}
 \]
 
-#### Program output
+##### Program output
 
 ```text
 n = 2 variables, m = 5 constraints
