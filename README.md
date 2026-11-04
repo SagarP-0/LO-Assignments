@@ -1,5 +1,4 @@
-# LO ASSIGNMENTS
-## SAGAR PARAJULI - CS26BTKMU11003
+# LO ASSIGNMENTS: SAGAR PARAJULI - CS26BTKMU11003
 Assignment 1: Handwritten simplex algorithm notes
 ======
 Assignment 2: Python implementation of the simplex algorithm
