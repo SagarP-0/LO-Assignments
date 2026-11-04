@@ -303,18 +303,20 @@ LP solution is integral                                PASS
 
 The dual of the relaxed minimum vertex cover LP is the fractional matching LP.
 
-\[
+$$
 \max w = \sum_{e \in E} y_e
-\]
+$$
 
-subject to
-\[
-\sum_{e \ni v} y_e \leq 1
-\quad \forall v \in U \cup V,
-\qquad
-y_e \geq 0
-\quad \forall e \in E.
-\]
+**Subject to**
+
+$$
+\begin{aligned}
+\sum_{e \ni v} y_e &\leq 1
+&& \forall v \in U \cup V,\\
+y_e &\geq 0
+&& \forall e \in E.
+\end{aligned}
+$$
 
 The dual LP printed by the program is:
 
@@ -426,7 +428,7 @@ The notebook displays the input graph alongside the solution graph:
 
 ## Assignment 5: Hand written proof on primal optimal is equal to dual optimal
 
-### Sincerely
+### Sincerely,
 **Sagar Parajuli** - cs26btkmu11003@iith.ac.in
 Phone: +91 8977229196
 
