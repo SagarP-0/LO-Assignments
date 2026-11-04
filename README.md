@@ -1,8 +1,9 @@
 # LO ASSIGNMENTS
 ## SAGAR PARAJULI - CS26BTKMU11003
 ## Assignment 1: Handwritten simplex algorithm notes
+======
 ## Assignment 2: Python implementation of the simplex algorithm
-
+======
 ### Linear Programming Problem and Test Results
 
 #### 1. Example Linear Programming Problem
