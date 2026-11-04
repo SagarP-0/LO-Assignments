@@ -1,8 +1,7 @@
 # Linear Optimisation Assignments
 
-**Sagar Parajuli — CS26BTKMU11003**
-
----
+**Team: Sagar Parajuli [CS26BTKMU11003]**
+------
 
 ## Assignment 1: Handwritten Simplex Algorithm Notes
 
@@ -422,3 +421,10 @@ The notebook displays the input graph alongside the solution graph:
 - Highlighted edges represent the maximum matching: \((A,C)\), \((D,E)\), and \((F,B)\).
 
 **Final result:** Minimum vertex cover size \(= 3\), and maximum matching size \(= 3\).
+
+## Assignment 5: Hand written proof on primal optimal is equal to dual optimal
+
+### Sincerely
+**Sagar Parajuli** - cs26btkmu11003@iith.ac.in
+Phone: +91 8977229196
+
